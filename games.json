@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Chess",
+        "systems": [
+            "PC",
+            "Switch"
+        ],
+        "maxPlayers": "2",
+        "minPlayers": "1",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    },
+    {
+        "name": "Mario Kart",
+        "systems": [
+            "Switch"
+        ],
+        "maxPlayers": "4",
+        "minPlayers": "2",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    },
+    {
+        "name": "Minecraft",
+        "systems": [
+            "PC",
+            "Switch",
+            "XboxSeriesX",
+            "XboxOne",
+            "PlayStation4",
+            "PlayStation5",
+            "iPhone",
+            "Android"
+        ],
+        "maxPlayers": "100",
+        "minPlayers": "2",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    },
+    {
+        "name": "Star Wars: Battlefront 2",
+        "systems": [
+            "PC",
+            "XboxOne",
+            "PlayStation4"
+        ],
+        "maxPlayers": "4",
+        "minPlayers": "2",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    },
+    {
+        "name": "Apex Legends",
+        "systems": [
+            "PC",
+            "XboxOne",
+            "PlayStation4"
+        ],
+        "maxPlayers": "3",
+        "minPlayers": "2",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    },
+    {
+        "name": "Monopoly",
+        "systems": [
+            "PC",
+            "iPhone",
+            "Xbox"
+        ],
+        "maxPlayers": "6",
+        "minPlayers": "2",
+        "currentPlayersNumber": 0,
+        "currentPlayerData": []
+    }
+]
